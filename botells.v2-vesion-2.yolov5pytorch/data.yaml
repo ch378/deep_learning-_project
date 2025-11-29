@@ -1,0 +1,4 @@
+train: C:\\Users\\chadl\\OneDrive\\Bureau\\ensa\\botells.v2-vesion-2.yolov5pytorch\\train\\images
+val: C:\\Users\\chadl\\OneDrive\\Bureau\\ensa\\botells.v2-vesion-2.yolov5pytorch\\valid\\images
+nc: 3
+names: ['bouteille conformite', 'bouteille non conformite', 'bouteilles']
